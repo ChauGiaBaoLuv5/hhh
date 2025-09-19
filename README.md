@@ -1,19 +1,13 @@
-<html lang="vi">
-<head>
-  <meta charset="UTF-8">
-  <title>Demo background</title>
-  <style>
-    html, body {
-      height: 100%;
-      margin: 0;
-    }
-    body {
-      background: url("1.png") no-repeat center center fixed;
-      background-size: contain;
-    }
-  </style>
-</head>
-<body>
-</body>
-</html>
+# Demo Background
+
+Đây là trang web demo hiển thị **background** bằng HTML & CSS.
+
+## Cách xem trang
+
+1. Mở file [`index.html`](./index.html) trong repo này  
+   **hoặc**  
+2. Truy cập trực tiếp qua GitHub Pages:  
+   `https://<tên-tài-khoản>.github.io/<tên-repo>/`
+
+## Cấu trúc dự án
 
