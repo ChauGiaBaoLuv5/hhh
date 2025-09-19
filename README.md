@@ -4,10 +4,11 @@
 
 ## Cách xem trang
 
-1. Mở file [`index.html`](./index.html) trong repo này  
+1. Mở file [`CuTP.html`](./CuTP.html) trong repo này  
    **hoặc**  
 2. Truy cập trực tiếp qua GitHub Pages:  
    `https://<tên-tài-khoản>.github.io/<tên-repo>/`
 
 ## Cấu trúc dự án
+
 
